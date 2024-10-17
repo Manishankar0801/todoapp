@@ -12,12 +12,7 @@ A simple and functional ToDo List application built using plain HTML, CSS, and v
 
 ## Demo
 
-You can see the project in action here: [Live Demo](#)
-
-## Screenshots
-
-![ToDo App Screenshot](#)  
-_Add screenshots or GIFs here if available._
+You can see the project in action here: [ToDoList](https://todolist-mani.netlify.app)
 
 ## Getting Started
 
