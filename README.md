@@ -33,15 +33,13 @@ You just need a web browser to run this project. No additional setup is required
     or simply double-click the index.html file in your file explorer.
 
 ### Usage
-
-	1.	Enter a new task in the input field.
-	2.	Press Enter or click the Add button to add the task.
-	3.	Click on the task text to edit the task.
-	4.	Use the checkbox to mark tasks as complete/incomplete.
-	5.	Click the delete button to remove all tasks.
+1. Enter a new task in the input field.
+2. Press Enter or click the Add button to add the task.
+3. Click on the task text to edit the task.
+4. Use the checkbox to mark tasks as complete/incomplete.
+5. Click the delete button to remove all tasks.
 
 ### Built With
-
-	•	HTML5: For structuring the page.
-	•	CSS3: For styling the application.
-	•	Vanilla JavaScript: For all application logic (no libraries or frameworks).
+1. HTML5: For structuring the page.
+2. CSS3: For styling the application.
+3. Vanilla JavaScript: For all application logic (no libraries or frameworks).
